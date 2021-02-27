@@ -19,10 +19,4 @@ You were hired as a digital transformation consultant by one of the most promine
 * [RoboAdvisor_Bot.json](RoboAdvisor/RoboAdvisor_Bot.json)
 * [RecommendPortfolio_Intent.json](RoboAdvisor/RecommendPortfolio_Intent.json)
 * [RiskLevel_Slot.json](RoboAdvisor/RiskLevel_Slot.json)
-
-
----
-
-### Video
-
-[video.mp4](RoboAdvisor/video.mp4)
+* [Demo_Video](RoboAdvisor/video.mp4)
